@@ -1,0 +1,6 @@
+2018-10-25 19:17:10,237 - INFO - Attempting to connect to data source
+2018-10-25 19:17:10,762 - WARNING - Failed to connect to data source "mydatasource"
+2018-10-25 19:17:11,003 - INFO - Retrying to connect to data source
+2018-10-25 19:17:12,213 - INFO - Connection to data source succeeded after 2ms
+2018-10-25 19:17:47,213 - ERROR - Unable to process login request for user "user 1"
+2018-10-25 19:17:13,273 - INFO - Myapp started listening on port 8000
